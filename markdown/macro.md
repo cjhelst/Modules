@@ -33,4 +33,22 @@ Table
 |item 1|item 2|
 |item 3|item 4|
 
+### Microstructures
+
+#### Bold
+
+This is how to **bold** text
+
+Italics
+
+This is how to *italicize* text
+
+#### code
+
+```
+
+import spacy
+import en_core_web_sm
+```
+
 ![Temple University Logo](https://pbs.twimg.com/profile_images/980625981554688001/5ckQyFrK_400x400.jpg)
