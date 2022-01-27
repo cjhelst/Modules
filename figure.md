@@ -10,7 +10,7 @@
 
 
 
-![Temple University Logo](programing_class/800px-Temple_T_logo.svg)
+![Temple University Logo](800px-Temple_T_logo.svg)
 <figcaption> Figure 1. Temple University Logo. </figcaption>
 
 </figure>
