@@ -10,7 +10,7 @@
 
 
 
-![Temple University Logo](800px-Temple_T_logo.svg)
+![Temple University Logo](https://github.com/cjhelst/Modules/blob/main/images/800px-Temple_T_logo.svg.png)
 <figcaption> Figure 1. Temple University Logo. </figcaption>
 
 </figure>
